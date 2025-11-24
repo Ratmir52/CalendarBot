@@ -9,7 +9,7 @@ from google.oauth2.credentials import Credentials
 
 
 
-TOKEN = "8314871875:AAEQZOA3Z150_Fd7akq9l-kIBBV4dNsCG4U"
+TOKEN = "MY_TOKEN"
 
 
 def main():
@@ -78,4 +78,5 @@ async def parse_googles(context: ContextTypes.DEFAULT_TYPE):
 
 if __name__ == "__main__":
     main()
+
 
